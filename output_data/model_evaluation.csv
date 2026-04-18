@@ -1,0 +1,2 @@
+AUC_ROC,FDR,True_Positives,False_Positives,True_Negatives,False_Negatives,Precision_Suspicious,Recall_Suspicious
+0.984,0.0374,335,13,487,24,0.9626,0.9331

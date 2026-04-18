@@ -1,0 +1,201 @@
+Customer_ID,Name,Entity_Type,Registration_Country,Static_Risk_Score,Account_Open_Date,Avg_Monthly_Txn_Count,Avg_Txn_Amount_INR,KYC_Verified,Occupation,City
+C0001,Kartik Sule,SME,India,0.27,2023-12-15,33,759570,False,Newspaper journalist,Vellore
+C0002,Vritika Walia,Individual,India,0.16,2025-04-27,24,11956,False,Museum education officer,Kochi
+C0003,Diya Chatterjee,SME,UAE,0.4,2024-02-07,74,406778,True,"Psychologist, forensic",Siwan
+C0004,Nayantara Buch,Individual,India,0.18,2026-02-26,16,163263,False,Statistician,Dharmavaram
+C0005,Shayak Sahni,Individual,India,0.2,2023-11-07,16,156349,True,Corporate treasurer,Karaikudi
+C0006,Miraya Solanki,PEP,Turkey,0.99,2024-01-04,8,876325,True,Claims inspector/assessor,Danapur
+C0007,Devansh Hayre,Individual,India,0.23,2023-09-03,25,23717,False,Careers adviser,Coimbatore
+C0008,Shamik Mand,Individual,Cayman Islands,0.4,2023-05-15,22,62570,True,Archaeologist,Dewas
+C0009,Yakshit Kakar,Individual,Nigeria,0.36,2023-12-23,27,87490,True,Cytogeneticist,Berhampore
+C0010,Kismat Bandi,Individual,Germany,0.19,2025-07-07,28,158245,False,Armed forces technical officer,Nanded
+C0011,Shray Mand,Individual,India,0.15,2024-05-19,25,46938,False,"Psychologist, prison and probation services",Jamnagar
+C0012,Anya Sandal,Individual,Cayman Islands,0.43,2024-07-18,5,183332,True,Chief Financial Officer,Tadipatri
+C0013,Tushar Gupta,Individual,India,0.19,2024-07-04,28,193659,True,"Journalist, magazine",Siliguri
+C0014,Kanav Kanda,Corporate,India,0.21,2023-10-19,285,204797,True,Government social research officer,Phusro
+C0015,Onkar Agate,Individual,India,0.24,2023-07-06,30,85612,False,Administrator,Nandyal
+C0016,Hrishita Dugar,Corporate,Cayman Islands,0.44,2023-05-29,92,2423456,False,Ecologist,Machilipatnam
+C0017,Amani Badal,PEP,Pakistan,0.98,2024-05-25,17,1986627,False,Bookseller,Anantapuram
+C0018,Khushi Sahota,Individual,India,0.17,2024-09-25,23,150207,True,"Radiographer, therapeutic",Morbi
+C0019,Kaira Kanda,Individual,Nigeria,0.39,2026-01-04,7,139782,True,Fast food restaurant manager,Siwan
+C0020,Himmat Tara,SME,Turkey,0.46,2023-07-24,72,249659,False,Location manager,Singrauli
+C0021,Saira Kade,Individual,Turkey,0.31,2025-12-08,25,174392,True,Therapeutic radiographer,Deoghar
+C0022,Ishita Kunda,Individual,India,0.18,2026-02-26,13,126275,True,Microbiologist,Rajkot
+C0023,Eva Suri,PEP,Pakistan,0.98,2024-07-01,4,445269,False,Ambulance person,Ambarnath
+C0024,Jivin Gupta,Individual,India,0.23,2024-02-01,30,124277,True,Environmental consultant,North Dumdum
+C0025,Miraya Bava,Individual,Myanmar,0.56,2023-04-24,22,20979,True,Energy manager,Tiruvottiyur
+C0026,Piya Chaudhari,Individual,India,0.23,2025-10-28,7,160984,True,Ceramics designer,Ulhasnagar
+C0027,Nirvaan Shetty,SME,India,0.25,2024-09-06,92,598177,True,"Programmer, systems",Bhiwani
+C0028,Tanya Sawhney,Individual,India,0.21,2024-07-23,14,124858,True,Heritage manager,Imphal
+C0029,Hansh Halder,Individual,India,0.17,2024-12-01,7,69037,True,Dispensing optician,Bhatpara
+C0030,Zoya Varghese,SME,Cayman Islands,0.51,2025-09-03,90,363921,True,Set designer,Sonipat
+C0031,Kavya Kannan,Corporate,Germany,0.21,2023-10-07,102,2414457,True,"Psychologist, occupational",Ratlam
+C0032,Heer Tailor,Corporate,UAE,0.36,2025-01-31,135,1297394,False,Geophysical data processor,Kota
+C0033,Taimur Kapadia,SME,India,0.24,2025-07-03,39,622092,False,Hospital pharmacist,Rajpur Sonarpur
+C0034,Anahi Borra,Individual,India,0.23,2024-12-17,30,15458,False,Retail banker,Thoothukudi
+C0035,Anahita Saini,PEP,Germany,0.83,2026-02-09,13,1740783,False,Adult guidance worker,Gulbarga
+C0036,Drishya Rajagopalan,Corporate,Turkey,0.43,2023-12-24,273,524845,True,"Lighting technician, broadcasting/film/video",Yamunanagar
+C0037,Divij Suri,Corporate,India,0.22,2025-12-16,218,1820090,True,Clinical research associate,Hubli–Dharwad
+C0038,Ryan Baral,Corporate,Myanmar,0.58,2024-02-02,265,4698103,True,"Designer, television/film set",Serampore
+C0039,Nayantara Shetty,Corporate,India,0.25,2025-01-25,161,3099833,True,Acupuncturist,Kirari Suleman Nagar
+C0040,Adira Gill,Individual,India,0.17,2026-02-11,27,119309,False,Clinical biochemist,Kota
+C0041,Rati Vala,Individual,UK,0.17,2023-11-16,15,178903,False,Radiation protection practitioner,Naihati
+C0042,Jayant Kota,SME,India,0.26,2025-09-16,42,695414,True,"Scientist, research (life sciences)",Kollam
+C0043,Anay Raj,Individual,India,0.22,2024-06-01,24,176627,False,"Surveyor, minerals",Ahmednagar
+C0044,Neysa Kar,SME,Iran,0.67,2024-05-28,56,590490,True,"Engineer, biomedical",Mahbubnagar
+C0045,Tejas Srivastava,SME,India,0.26,2024-01-14,51,548216,True,Glass blower/designer,Pudukkottai
+C0046,Aayush Chokshi,SME,India,0.28,2025-09-09,20,161764,False,Financial controller,Sirsa
+C0047,Ivan Bala,Individual,India,0.22,2025-03-01,19,39954,False,Seismic interpreter,Thrissur
+C0048,Zeeshan Konda,SME,Germany,0.29,2025-10-07,40,547732,True,"Civil engineer, contracting",Davanagere
+C0049,Nishith Krishnamurthy,SME,India,0.3,2024-06-01,29,798206,True,Community arts worker,Raebareli
+C0050,Vivaan Dhingra,Corporate,India,0.21,2025-07-09,104,738790,True,"Secretary, company",Bahraich
+C0051,Riaan Ram,Individual,India,0.16,2026-03-31,18,107099,True,Homeopath,Kolkata
+C0052,Biju Khurana,Individual,India,0.23,2024-09-07,18,146091,True,Publishing copy,Bahraich
+C0053,Manjari Dugar,Individual,India,0.17,2024-08-06,26,110989,False,Product manager,Sasaram
+C0054,Zain Barad,SME,UK,0.25,2023-07-26,79,240556,True,"Administrator, education",Mau
+C0055,Tiya Dora,Individual,India,0.23,2026-03-09,13,115510,True,Investment analyst,Ahmedabad
+C0056,Kismat Shukla,Individual,India,0.24,2023-05-05,6,13134,True,Writer,Karimnagar
+C0057,Kabir Bumb,Individual,India,0.23,2024-04-05,19,188360,True,Health and safety adviser,Maheshtala
+C0058,Jivin Sengupta,SME,Pakistan,0.46,2024-03-15,45,129688,True,Illustrator,Warangal
+C0059,Sara Saha,Corporate,USA,0.2,2025-07-05,159,3308573,True,Sports therapist,Erode
+C0060,Lavanya Rau,Individual,India,0.19,2025-10-26,18,99945,True,Chief Strategy Officer,Rohtak
+C0061,Hunar Deol,SME,Nigeria,0.48,2023-09-18,95,331433,False,Corporate treasurer,Belgaum
+C0062,Ivan Vasa,Individual,India,0.2,2026-02-06,17,93184,True,"Scientist, product/process development",Karnal
+C0063,Kartik Vasa,Individual,India,0.17,2025-04-04,24,188811,True,IT trainer,Rajahmundry
+C0064,Prerak Salvi,SME,India,0.32,2024-11-11,82,519945,True,Product manager,Bhilai
+C0065,Vritika Bansal,Individual,India,0.21,2024-09-12,16,129062,True,Purchasing manager,Raebareli
+C0066,Vritika Kala,SME,India,0.27,2023-11-27,44,380876,True,Armed forces training and education officer,Jabalpur
+C0067,Nitara Mahajan,SME,India,0.3,2024-11-10,96,346745,True,Risk manager,Jaunpur
+C0068,Manjari Kalla,Individual,India,0.19,2023-09-19,13,16931,True,"Horticulturist, commercial",Ambala
+C0069,Jayesh Sem,SME,India,0.28,2023-09-18,52,550935,True,Structural engineer,Motihari
+C0070,Badal Ghosh,SME,UK,0.26,2026-03-04,58,139318,False,Mining engineer,Loni
+C0071,Dhanush Kara,SME,Singapore,0.26,2023-06-29,77,514226,True,Immigration officer,Bhiwani
+C0072,Yashvi Tiwari,SME,Germany,0.33,2023-12-31,47,327501,True,Information systems manager,Davanagere
+C0073,Hridaan Din,SME,India,0.28,2024-04-26,80,355407,True,Orthoptist,Dehradun
+C0074,Misha Krish,SME,India,0.31,2023-07-22,95,743300,True,Freight forwarder,Nagpur
+C0075,Ela Goda,SME,Nigeria,0.48,2024-12-07,41,372554,True,Geoscientist,Belgaum
+C0076,Yakshit Arora,Individual,India,0.18,2025-06-03,13,136195,False,Publishing copy,Dindigul
+C0077,Ira Sandhu,SME,USA,0.24,2024-04-28,93,665643,True,Naval architect,Gopalpur
+C0078,Zain Goswami,SME,India,0.29,2024-01-25,43,663762,True,Chief Strategy Officer,Gorakhpur
+C0079,Badal Gade,Individual,India,0.15,2024-07-06,10,91456,True,Financial planner,Guntur
+C0080,Saksham Basu,Individual,India,0.17,2026-02-04,29,110952,True,Software engineer,Ratlam
+C0081,Anvi Loke,Individual,India,0.22,2025-11-02,25,120878,False,Planning and development surveyor,Panchkula
+C0082,Rania Balan,Corporate,India,0.19,2023-07-15,90,2806761,False,Aid worker,Mango
+C0083,Anaya Dara,Individual,Cayman Islands,0.43,2024-10-31,19,35793,True,Early years teacher,Sultan Pur Majra
+C0084,Ishaan Kala,Individual,India,0.19,2023-08-24,19,149510,True,Accommodation manager,Rohtak
+C0085,Zain Kade,Individual,Singapore,0.18,2024-11-14,30,138100,True,"Scientist, research (life sciences)",Deoghar
+C0086,Indrajit Dey,Individual,India,0.17,2025-07-06,29,147456,True,Warden/ranger,Belgaum
+C0087,Jayan Mallick,SME,India,0.32,2025-03-12,80,789485,True,"Horticulturist, amenity",Maheshtala
+C0088,Shanaya Khatri,Individual,India,0.19,2023-09-25,23,92030,True,"Engineer, structural",Rohtak
+C0089,Jhanvi Randhawa,Individual,UK,0.16,2026-02-28,20,74474,True,Field trials officer,Parbhani
+C0090,Ritvik Dani,Corporate,Turkey,0.39,2023-08-13,59,773954,True,Patent examiner,Dindigul
+C0091,Piya Dutta,PEP,Germany,0.78,2025-11-06,3,196450,True,"Clinical scientist, histocompatibility and immunogenetics",Gurgaon
+C0092,Alisha Chaudhuri,SME,India,0.28,2023-08-16,87,482067,True,Special educational needs teacher,Siliguri
+C0093,Tejas Chaudhari,SME,India,0.31,2024-01-18,38,293467,True,Senior tax professional/tax inspector,Aligarh
+C0094,Rhea Bedi,Corporate,India,0.22,2025-05-03,291,3098814,False,Ranger/warden,Khammam
+C0095,Sumer Wable,SME,India,0.27,2023-08-29,33,298728,True,Health and safety inspector,Shimoga
+C0096,Riaan Taneja,PEP,India,0.84,2024-10-10,18,1846589,True,Financial planner,Berhampore
+C0097,Nishith Sethi,SME,India,0.32,2025-01-08,44,701051,True,Public house manager,Hajipur
+C0098,Himmat Lalla,Individual,India,0.2,2025-08-28,28,39448,True,Games developer,Kakinada
+C0099,Rohan Shukla,SME,Turkey,0.44,2025-05-09,41,319452,True,Marine scientist,Baranagar
+C0100,Anika Char,Corporate,India,0.2,2024-02-28,143,957515,True,Physiotherapist,Karimnagar
+C0101,Nitara Bhasin,Individual,India,0.21,2024-12-03,26,73724,True,Media planner,Panihati
+C0102,Miraan Tak,Individual,USA,0.23,2024-02-04,15,164929,False,Radio broadcast assistant,Danapur
+C0103,Uthkarsh Vohra,Individual,India,0.14,2023-08-17,20,35440,False,Housing manager/officer,Bhubaneswar
+C0104,Yashvi D’Alia,Individual,North Korea,0.57,2023-08-26,22,114871,False,Special educational needs teacher,Rampur
+C0105,Anaya Upadhyay,SME,Pakistan,0.43,2024-11-21,47,514920,True,Sports development officer,Pune
+C0106,Jiya Vyas,Individual,Cayman Islands,0.38,2023-05-01,17,77320,True,Toxicologist,Agra
+C0107,Mishti Brar,SME,India,0.24,2024-11-20,51,182040,True,"Engineer, communications",Panipat
+C0108,Ranbir Kohli,SME,UAE,0.42,2025-11-23,96,52973,True,"Geologist, engineering",Delhi
+C0109,Aaryahi Gole,SME,India,0.33,2023-09-28,65,299489,True,"Nurse, adult",Jaunpur
+C0110,Ira Bhasin,Individual,Germany,0.19,2024-11-18,28,21661,True,Mechanical engineer,Chandigarh
+C0111,Nirvaan Thaker,Individual,India,0.2,2026-01-19,28,177727,False,Hotel manager,Saharsa
+C0112,Sahil Shan,Individual,India,0.21,2025-04-20,19,24265,True,Newspaper journalist,Anantapur
+C0113,Ahana  Sagar,SME,India,0.31,2023-08-05,87,359222,True,"Psychologist, counselling",Thane
+C0114,Ehsaan Borra,Corporate,UK,0.27,2026-03-14,277,2116743,False,Publishing copy,Chandigarh
+C0115,Kabir Kapadia,Individual,Germany,0.17,2024-03-25,15,179354,True,Ceramics designer,Raiganj
+C0116,Azad Kari,Corporate,India,0.2,2025-10-25,65,4910928,True,"Designer, multimedia",Malegaon
+C0117,Anay Goda,Individual,Turkey,0.39,2023-05-30,18,194021,True,Veterinary surgeon,Katihar
+C0118,Armaan Ramakrishnan,Individual,India,0.22,2025-10-02,16,150821,False,"Pilot, airline",Bihar Sharif
+C0119,Inaaya  Char,Corporate,Cayman Islands,0.47,2024-09-08,205,2443514,True,"Doctor, hospital",Shimla
+C0120,Hansh Kant,SME,India,0.27,2024-02-01,38,643830,True,Chemical engineer,Parbhani
+C0121,Onkar Setty,Individual,India,0.18,2023-08-29,19,94363,True,Dietitian,Kolkata
+C0122,Nakul Swaminathan,Individual,Singapore,0.14,2024-09-02,7,76330,True,"Engineer, energy",Amroha
+C0123,Biju Dar,Individual,India,0.17,2025-03-05,8,79251,False,Biomedical scientist,Tiruppur
+C0124,Nakul Gokhale,PEP,India,0.76,2025-03-01,3,1143092,False,Academic librarian,Ghaziabad
+C0125,Anya Barad,Individual,India,0.21,2025-11-30,21,151466,False,"Psychologist, counselling",Bangalore
+C0126,Baiju Ahuja,Corporate,Turkey,0.41,2024-12-03,79,3597657,True,Editorial assistant,Ambarnath
+C0127,Sana Gole,Corporate,USA,0.27,2025-04-15,112,3854719,True,Licensed conveyancer,Bahraich
+C0128,Shray Gade,Individual,India,0.17,2024-10-27,15,49074,True,"Geneticist, molecular",Jhansi
+C0129,Indrajit Aurora,Corporate,India,0.26,2024-03-08,87,2347217,True,"Designer, furniture",Guna
+C0130,Krish Srinivasan,SME,UK,0.26,2023-10-26,83,536490,True,Musician,Ozhukarai
+C0131,Dhruv Ben,Corporate,USA,0.21,2025-06-17,127,2504129,True,Best boy,Guna
+C0132,Samar Bhavsar,Individual,India,0.15,2024-12-06,14,25114,True,Armed forces training and education officer,Vijayawada
+C0133,Nakul Reddy,Individual,UAE,0.37,2025-02-04,15,163598,True,Politician's assistant,Phagwara
+C0134,Jiya Reddy,PEP,India,0.8,2023-11-20,8,863149,True,Careers information officer,Bettiah
+C0135,Ritvik Ramaswamy,Corporate,India,0.27,2023-07-11,215,3007242,True,Armed forces logistics/support/administrative officer,Siwan
+C0136,Ishaan Doshi,SME,India,0.27,2025-05-23,39,399555,False,Psychiatrist,Chapra
+C0137,Alisha Soman,Individual,Germany,0.15,2024-04-22,22,103744,False,"Engineer, manufacturing systems",Belgaum
+C0138,Shaan Barman,Individual,India,0.17,2025-03-01,11,94583,True,"Engineer, drilling",Khandwa
+C0139,Reyansh Kothari,Corporate,India,0.27,2023-10-29,136,1299319,True,Personnel officer,Kadapa
+C0140,Bhavin Tailor,Individual,UK,0.2,2024-05-30,10,194053,True,Wellsite geologist,Coimbatore
+C0141,Divij Yohannan,SME,Singapore,0.26,2025-05-30,80,253440,True,Higher education careers adviser,Chennai
+C0142,Mohanlal Devan,SME,India,0.28,2025-09-24,97,195121,False,Photographer,Rourkela
+C0143,Baiju Shukla,Corporate,India,0.2,2025-02-23,245,1544797,True,Magazine features editor,Machilipatnam
+C0144,Vihaan Kalita,Corporate,India,0.28,2025-11-24,63,3525696,True,"Producer, television/film/video",Sikar
+C0145,Nirvi Choudhury,Individual,India,0.16,2025-12-20,15,30974,False,"Accountant, chartered management",Nizamabad
+C0146,Jivika Vasa,SME,India,0.31,2023-08-04,20,133074,True,Accounting technician,Bhagalpur
+C0147,Mamooty Mannan,Individual,Germany,0.19,2026-03-03,8,80524,False,Commercial art gallery manager,Chennai
+C0148,Shanaya Bath,Individual,UAE,0.35,2025-04-13,22,9308,False,Archivist,Ranchi
+C0149,Rohan Seshadri,Individual,India,0.2,2024-07-04,10,179160,True,Cabin crew,Jehanabad
+C0150,Nishith Chacko,Individual,India,0.2,2026-04-11,16,71492,True,"Therapist, sports",Navi Mumbai
+C0151,Trisha Kanda,SME,Germany,0.27,2024-07-06,89,404992,False,"Lecturer, further education",Suryapet
+C0152,Nirvi Kara,SME,UAE,0.41,2023-07-18,24,357696,True,"Doctor, general practice",Chennai
+C0153,Kiaan Barad,Individual,India,0.18,2025-11-03,22,129098,True,Advertising account planner,Tinsukia
+C0154,Shlok Gala,Corporate,India,0.2,2025-06-18,279,3443411,False,Logistics and distribution manager,Patna
+C0155,Hansh Thaman,SME,India,0.32,2024-08-24,74,132760,True,Investment analyst,Loni
+C0156,Kimaya Behl,Individual,India,0.17,2024-09-06,19,162973,True,Furniture designer,Mehsana
+C0157,Ela Dutt,SME,Nigeria,0.46,2024-07-04,27,128686,True,Higher education lecturer,Satara
+C0158,Misha Sanghvi,PEP,India,0.8,2025-08-08,14,859484,False,Midwife,Etawah
+C0159,Mehul Bava,Corporate,India,0.21,2024-01-28,245,844961,True,"Geneticist, molecular",Bharatpur
+C0160,Fateh Swamy,Individual,USA,0.16,2023-10-02,8,11793,True,"Surveyor, planning and development",Siliguri
+C0161,Neelofar Doshi,SME,Germany,0.26,2025-04-16,82,259902,True,"Administrator, Civil Service",Bhusawal
+C0162,Advika Bandi,Corporate,India,0.2,2024-11-09,66,4813710,True,Leisure centre manager,Guwahati
+C0163,Jayant Ratta,Corporate,Germany,0.28,2025-09-06,107,1218062,True,"Librarian, academic",Kishanganj
+C0164,Samarth Ratti,Individual,India,0.18,2023-10-28,23,101707,False,Analytical chemist,Rewa
+C0165,Kavya Kapadia,PEP,Germany,0.79,2023-11-02,5,1043664,False,Archaeologist,Ratlam
+C0166,Aarush Chokshi,SME,India,0.33,2025-10-07,95,240802,True,Interpreter,Dhule
+C0167,Vanya Srivastava,Corporate,India,0.22,2025-08-12,292,4552830,True,"Conservation officer, historic buildings",Uluberia
+C0168,Myra Sarkar,Individual,USA,0.2,2023-06-28,9,168845,True,Homeopath,Erode
+C0169,Adah Shenoy,SME,India,0.26,2025-06-22,97,404019,True,Product/process development scientist,Raebareli
+C0170,Bhamini Shan,Individual,North Korea,0.58,2024-02-20,13,175689,True,"Buyer, industrial",Haridwar
+C0171,Akarsh Sarkar,SME,India,0.26,2023-11-16,71,361882,False,"Physicist, medical",Mathura
+C0172,Aarav Ganesh,Individual,India,0.17,2024-10-09,9,86941,True,"Engineer, building services",Nanded
+C0173,Manikya Sethi,Individual,India,0.16,2025-08-26,8,75116,False,"Solicitor, Scotland",Mathura
+C0174,Ranbir Hora,Corporate,India,0.29,2023-11-23,98,1536661,False,Armed forces technical officer,Hyderabad
+C0175,Rania Goswami,Individual,India,0.14,2024-07-24,17,137499,True,Environmental manager,Surendranagar Dudhrej
+C0176,Nishith Bawa,Individual,Turkey,0.37,2023-07-20,20,79907,True,Oceanographer,Ballia
+C0177,Kartik Chanda,SME,Singapore,0.28,2025-08-29,92,639107,True,Speech and language therapist,Bettiah
+C0178,Chirag Kari,Individual,India,0.19,2023-05-30,24,183362,True,Medical secretary,Mahbubnagar
+C0179,Jayan Mammen,SME,India,0.25,2023-09-27,71,574369,True,Systems developer,Sagar
+C0180,Indrajit Sathe,Corporate,India,0.2,2023-06-06,131,1563165,True,Barrister's clerk,Machilipatnam
+C0181,Divit Dash,SME,India,0.29,2023-04-30,92,364353,True,Biomedical scientist,Buxar
+C0182,Samar Seth,PEP,India,0.82,2026-02-14,11,1474873,True,Fast food restaurant manager,Jaipur
+C0183,Veer Saini,SME,India,0.26,2023-08-02,99,448658,True,"Conservation officer, nature",Pune
+C0184,Riaan Mannan,Individual,India,0.18,2023-09-17,18,186010,True,Warehouse manager,Khammam
+C0185,Nitya Chaudhary,Individual,India,0.24,2026-01-08,20,142750,True,"Designer, jewellery",New Delhi
+C0186,Yuvraj  Chopra,Individual,UK,0.23,2025-10-10,26,173639,True,"Loss adjuster, chartered",Ratlam
+C0187,Madhav Sami,Individual,Cayman Islands,0.37,2025-09-30,14,189785,True,Air cabin crew,Howrah
+C0188,Anahi Chaudhuri,SME,Pakistan,0.47,2024-10-28,93,759489,True,Medical technical officer,Siwan
+C0189,Romil Sidhu,PEP,UAE,0.93,2025-07-04,11,1667282,False,"Scientist, biomedical",Belgaum
+C0190,Manikya Subramanian,Individual,UAE,0.33,2023-10-03,22,187497,True,Dentist,Katni
+C0191,Ela Yadav,SME,India,0.28,2024-03-24,32,764281,True,Chartered legal executive (England and Wales),Pimpri-Chinchwad
+C0192,Kismat Dyal,Individual,Pakistan,0.39,2025-05-02,20,175534,True,Geographical information systems officer,Panvel
+C0193,Zoya Sen,SME,India,0.31,2024-11-20,73,234327,False,Control and instrumentation engineer,Jamalpur
+C0194,Hrishita Grewal,Individual,Germany,0.23,2025-12-28,14,14821,False,"Teacher, adult education",Bhilwara
+C0195,Kimaya Devi,PEP,India,0.79,2025-09-10,13,440775,False,"Investment banker, corporate",Thanjavur
+C0196,Alisha Baria,SME,Germany,0.24,2023-05-31,92,757160,False,Health service manager,Hajipur
+C0197,Adah Venkatesh,Corporate,India,0.2,2025-06-17,172,2914567,True,Gaffer,Dehri
+C0198,Riya Sengupta,Individual,India,0.17,2025-10-16,15,84153,True,Quantity surveyor,Berhampore
+C0199,Ahana  Dhillon,Individual,India,0.17,2026-01-28,17,184850,True,Osteopath,Baranagar
+C0200,Ehsaan Roy,Individual,India,0.24,2025-07-28,20,45156,True,Amenity horticulturist,Nandyal
