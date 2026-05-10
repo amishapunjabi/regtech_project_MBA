@@ -339,6 +339,7 @@ def render_investigator_workbench(df: pd.DataFrame,
     display_cols = [c for c in display_cols if c in filtered.columns]
 
     # Colour code rows by risk tier
+    
     def highlight_risk(row):
         bg_color = {"High":"#ffebee","Medium":"#fff3e0","Low":"#e8f5e9"}.get(
             str(row.get("Risk_Tier","")), "#2d2d2d")
