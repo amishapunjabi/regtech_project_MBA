@@ -23,7 +23,7 @@ import sys
 from datetime import datetime, timedelta
 
 # ── Path setup ─────────────────────────────────────────────────
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE_DIR)
 OUTPUT_DIR = os.path.join(BASE_DIR, "output_data")
 SAR_DIR    = os.path.join(OUTPUT_DIR, "sar_reports")
